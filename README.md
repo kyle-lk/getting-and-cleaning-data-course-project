@@ -1,4 +1,4 @@
-#README
+README
 
 Hello,my friends! This is an introduction...
 
